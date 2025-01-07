@@ -12,7 +12,7 @@ Prevalent nighttime person re-identification (ReID) methods typically combine im
 ## Synthetic nighttime ReID dataset
 ### News :sparkles:  Synthetic nighttime ReID dataset is released
 
-<img src="./imgs/Syn_real_imgs.drawio_00.png" alt="Miss patterns" width="80%" height="auto">
+<img src="./imgs/Syn_real_imgs.drawio_00.jpg" alt="Miss patterns" width="80%" height="auto">
 
 ### Citation
 
