@@ -6,7 +6,7 @@ Prevalent nighttime person re-identification (ReID) methods typically combine im
 ### Collaborative Enhancement Network
 <img src="./imgs/Framework.jpg" alt="Miss patterns" width="80%" height="auto">
 
-Checkpoints [Link](https://drive.google.com/file/d/1bbSuIwEzXkB09mqz0tg5XpIF_QC4cm7-/view?usp=drive_link)
+[Checkpoint Link](https://drive.google.com/file/d/1bbSuIwEzXkB09mqz0tg5XpIF_QC4cm7-/view?usp=drive_link)
 
 ### Synthetic nighttime ReID dataset comming soon
 <img src="./imgs/Syn_real_imgs.drawio_00.jpg" alt="Miss patterns" width="80%" height="auto">
