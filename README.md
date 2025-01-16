@@ -8,7 +8,7 @@ Prevalent nighttime person re-identification (ReID) methods typically combine im
 
 Checkpoints [Link](https://drive.google.com/file/d/1bbSuIwEzXkB09mqz0tg5XpIF_QC4cm7-/view?usp=drive_link)
 
-Synthetic nighttime ReID dataset comming soon
+### Synthetic nighttime ReID dataset comming soon
 <img src="./imgs/Syn_real_imgs.drawio_00.jpg" alt="Miss patterns" width="80%" height="auto">
 
 ### Citation
@@ -20,9 +20,6 @@ Please kindly cite this paper in your publications if it helps your research:
   journal={IEEE Transactions on Information Forensics and Security}, 
   title={Nighttime Person Re-Identification via Collaborative Enhancement Network with Multi-domain Learning}, 
   year={2025},
-  volume={},
-  number={},
-  pages={1-1},
   doi={10.1109/TIFS.2025.3527335}}
 ```
 Contact: adlu_ah@foxmail.com
