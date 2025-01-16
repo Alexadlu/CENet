@@ -1,9 +1,12 @@
 # Nighttime Person Re-Identification via Collaborative Enhancement Network with Multi-domain Learning
-
 Prevalent nighttime person re-identification (ReID) methods typically combine image relighting and ReID networks in a sequential manner. However, their performance (recognition accuracy) is limited by the quality of relighting images and insufficient collaboration between image relighting and ReID tasks. To handle these problems, we propose a novel Collaborative Enhancement Network called CENet, which performs the multilevel feature interactions in a parallel framework, for nighttime person ReID. In particular, the designed parallel structure of CENet can not only avoid the impact of the quality of relighting images on ReID performance, but also allow us to mine the collaborative relations between image relighting and person ReID tasks. To this end, we integrate the multilevel feature interactions in CENet, where we first share the Transformer encoder to build the low-level feature interaction, and then perform the feature distillation that transfers the high-level features from image relighting to ReID, thereby alleviating the severe image degradation issue caused by the nighttime scenario while avoiding the impact of relighting images. In addition, the sizes of existing real-world nighttime person ReID datasets are limited, and large-scale synthetic ones exhibit substantial domain gaps with real-world data. To leverage both small-scale real-world and large-scale synthetic training data, we develop a multi-domain learning algorithm, which alternately utilizes both kinds of data to reduce the inter-domain difference in training procedure. Extensive experiments on two real nighttime datasets, Night600 and RGBNT201, and a synthetic nighttime ReID dataset are conducted to validate the effectiveness of CENet. 
 
-## Synthetic nighttime ReID dataset
-### News :sparkles: Synthetic nighttime ReID dataset is released
 
+## News :sparkles: Code is released
+<img src="./imgs/Syn_real_imgs.drawio_00.jpg" alt="Miss patterns" width="80%" height="auto">
+[checkpoints_link](https://drive.google.com/file/d/1bbSuIwEzXkB09mqz0tg5XpIF_QC4cm7-/view?usp=drive_link)
+
+## News :sparkles: Synthetic nighttime ReID dataset is released
+Synthetic nighttime ReID dataset[Link](https://drive.google.com/file/d/1bbSuIwEzXkB09mqz0tg5XpIF_QC4cm7-/view?usp=drive_link)
 <img src="./imgs/Syn_real_imgs.drawio_00.jpg" alt="Miss patterns" width="80%" height="auto">
 
