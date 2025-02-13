@@ -12,11 +12,15 @@ Prevalent nighttime person re-identification (ReID) methods typically combine im
 
 Syn_Dark: [Google_Yun](https://drive.google.com/file/d/1Gm420sZk3ZPf32PKjG5sb_WRlqk3GMNx/view?usp=drive_link)  
 
-Night600: [Google_Yun](https://drive.google.com/file/d/1_hPDoEARO5KHAGTu1_3xKuKj-eMbGD-0/view?usp=drive_link)   
+Night600: [Google_Yun](https://drive.google.com/file/d/1_hPDoEARO5KHAGTu1_3xKuKj-eMbGD-0/view?usp=drive_link) 
+
 Night600: [Baidu_Yun](https://pan.baidu.com/s/190WK7fLH7KIdaez_l_UEaw?pwd=1234)
+
 RGBNT201-RGB: [Google_Yun](https://drive.google.com/drive/folders/1EscBadX-wMAT56_It5lXY-S3-b5nK1wH?usp=sharing
 )
+
 Knight: [Baidu_Yun](https://pan.baidu.com/s/1D5g0AqT1Lx2sl__EprRa6A)
+
 <img src="./imgs/Syn_real_imgs.drawio_00.jpg" alt="Miss patterns" width="80%" height="auto">
 
 ### Citation
